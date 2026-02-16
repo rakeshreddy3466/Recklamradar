@@ -16,6 +16,7 @@ class AdminStoreScreen extends StatelessWidget {
     required this.storeName,
   });
 
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
