@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDE-qxXpsMwO6mGfJxTAHRI0KvJYt8itIw',
+    apiKey: 'API_KEY_REMOVED', // Key removed for security
     appId: '1:47494083713:web:de5b2b2caea52d6d2f0980',
     messagingSenderId: '47494083713',
     projectId: 'recklamradar-98889',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDVJ_hGg07GKK3_J-rnnlFahdBg2LazP1I',
+    apiKey: 'API_KEY_REMOVED', // Key removed for security
     appId: '1:47494083713:android:21f38a1b2b922cf12f0980',
     messagingSenderId: '47494083713',
     projectId: 'recklamradar-98889',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBqyN8pGX8s2eCX5BzdkzXhg2DK-2kG7ws',
+    apiKey: 'API_KEY_REMOVED', // Key removed for security
     appId: '1:47494083713:ios:1eab55f8eceb1cc32f0980',
     messagingSenderId: '47494083713',
     projectId: 'recklamradar-98889',
@@ -69,7 +69,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBqyN8pGX8s2eCX5BzdkzXhg2DK-2kG7ws',
+    apiKey: 'API_KEY_REMOVED', // Key removed for security
     appId: '1:47494083713:ios:1eab55f8eceb1cc32f0980',
     messagingSenderId: '47494083713',
     projectId: 'recklamradar-98889',
@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDE-qxXpsMwO6mGfJxTAHRI0KvJYt8itIw',
+    apiKey: 'API_KEY_REMOVED', // Key removed for security
     appId: '1:47494083713:web:0d30605365ef463c2f0980',
     messagingSenderId: '47494083713',
     projectId: 'recklamradar-98889',
@@ -87,5 +87,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'recklamradar-98889.firebasestorage.app',
     measurementId: 'G-BQV1QJ8EJV',
   );
-
 }
