@@ -20,6 +20,7 @@ import 'package:recklamradar/utils/performance_config.dart';
 import 'package:recklamradar/services/network_service.dart';
 import 'package:recklamradar/services/currency_service.dart';
 
+
 class StoreDetailsPage extends StatefulWidget {
   final String storeId;
   final String storeName;
